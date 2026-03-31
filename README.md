@@ -19,6 +19,9 @@ Google Earth high-resolution RGB (3-band) imagery was used for tree mapping. The
 ## Workflow
 <img width="3205" height="2331" alt="Flow" src="https://github.com/user-attachments/assets/b9742a36-d9f8-4c85-9f89-dcaf804daa7a" />
 
+## Results
+<img width="1038" height="813" alt="Results" src="https://github.com/user-attachments/assets/ecf7067a-8d57-4a12-a04b-764fac1bdd1f" />
+
 ## Contributing
 I welcome contributions and feedback from the community. Feel free to open issues, propose enhancements, or submit pull requests to improve this project. If you have collaboration ideas, research suggestions, or would like to work together on related topics, please feel free to reach out..
 
