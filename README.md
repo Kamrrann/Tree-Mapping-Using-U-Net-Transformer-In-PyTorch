@@ -17,7 +17,7 @@ The model predicts pixel-wise tree cover maps from satellite imagery.
 ## Dataset
 Google Earth high-resolution RGB (3-band) imagery was used for tree mapping. The dataset consists of high-resolution Google Earth images with corresponding segmentation masks, each with a spatial size of 256 × 256 pixels. The masks contain three classes: tree, vegetation (all vegetation cover other than trees, such as grass, shrubs, and crops), and background (all other features, including water, built-up areas, and bare soil).
 ## Workflow
-<img width="3205" height="2331" alt="Workflow" src="https://github.com/user-attachments/assets/d0a0c422-13c1-4f7f-8fb4-0ad17ae15548" />
+<img width="3205" height="2331" alt="Flow" src="https://github.com/user-attachments/assets/b9742a36-d9f8-4c85-9f89-dcaf804daa7a" />
 
 ## Contributing
 I welcome contributions and feedback from the community. Feel free to open issues, propose enhancements, or submit pull requests to improve this project. If you have collaboration ideas, research suggestions, or would like to work together on related topics, please feel free to reach out..
