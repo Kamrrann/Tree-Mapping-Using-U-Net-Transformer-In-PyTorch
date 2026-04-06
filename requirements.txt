@@ -1,0 +1,9 @@
+NumPy: 1.26.4
+Pandas: 2.2.3
+Matplotlib: 3.9.2
+OpenCV: 4.10.0
+PyTorch: 2.3.0
+Rasterio: 1.4.1
+TorchMetrics: 1.5.2
+TorchInfo: 1.8.0
+Segmentation Models PyTorch: 0.3.5dev0
