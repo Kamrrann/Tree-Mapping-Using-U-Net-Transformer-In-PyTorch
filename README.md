@@ -23,5 +23,5 @@ Google Earth high-resolution RGB (3-band) imagery was used for tree mapping. The
 <img width="1037" height="825" alt="Rr" src="https://github.com/user-attachments/assets/5f858067-4928-4ffa-95a0-f2b0f8cbc57c" />
 
 ## Contributing
-I welcome contributions and feedback from the community. Feel free to open issues, propose enhancements, or submit pull requests to improve this project. If you have collaboration ideas, research suggestions, or would like to work together on related topics, please feel free to reach out..
+I welcome contributions and feedback from the community. Feel free to open issues, propose enhancements, or submit pull requests to improve this project. If you have collaboration ideas, research suggestions, or would like to work together on related topics, please feel free to reach out.
 
